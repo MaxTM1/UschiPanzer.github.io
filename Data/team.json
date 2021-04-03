@@ -78,7 +78,7 @@
         }, 
         {
             "name": "Salzi",
-            "rank": "Moderator II",
+            "rank": "Moderator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1e/5522-1e4f3e70000b4f5cf4356ae3cccc3aaab79edabe.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1729-salzi/"
@@ -92,17 +92,17 @@
         },
         {
             "name": "MaxTM",
-            "rank": "Operator II",
+            "rank": "Operator I",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/1d/5738-1d70088e43d57a9b830def7c7bbada2419c9e13f.png",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1803-maxtm/"
         },
         {
-            "name": "Haze",
+            "name": "Shoto",
             "rank": "Moderator II",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3c/5911-3c64de79d5966b3aff04d240358ac2af9f35a7cb.png",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-haze/"
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/f6/6017-f65ba40fb8418ba80c732bfb97c8524f777810c4.jpg",
+            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1849-shoto/"
         },
         {
             "name": "xx-.Niklas.-xx",
@@ -110,13 +110,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/af/5697-af874485dd30e34a814b3381437c86d1de669d96.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1837-xx-niklas-xx/"
-        },
-        {
-            "name": "HammerLP",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/76/5095-76ddab725572892a44293dc93c9bf4d46e522641.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1584-hammerlp/"
         },
         {
             "name": "jannik",
@@ -131,13 +124,6 @@
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/c7/5860-c7d5581146ec37d8e44548f54f8eccf494d37a83.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/536-marly/"
-        },
-        {
-            "name": "Nico_Uchiha",
-            "rank": "Moderator II",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/3b/5817-3b219399b6908502b4d68b87c03110f1294284cb.gif",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1883-nico-uchiha/"
         },
         {
             "name": "Bernhardt Kruse",
@@ -157,7 +143,7 @@
             "name": "BigLazy03",
             "rank": "Moderator I",
             "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6009-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
+            "picture": "https://www.goldphoenix.de/wcf/images/avatars/60/6030-607276e9d6a9833c30f1dca198b0f671626d5dd2.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1796-biglazy03/"
         },
         {
@@ -167,13 +153,6 @@
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/d7/5510-d7783ecd3a2b5d3aaec2154c4b37024ceb2a71ed.jpg",
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1780-markus-fischer//"
         }, 
-        {  
-            "name": "Raymond Shawn",
-            "rank": "Supporter",
-            "highlight": false,
-            "picture": "https://www.goldphoenix.de/wcf/images/avatars/37/5878-379a3659a062be7a28feb73c785ebff9ec799432.jpg",
-            "profile": "https://www.goldphoenix.de/wcf/index.php?user/1352-raymond-shawn/"
-        },
         {  
             "name": "[GER] D34D_W01F",
             "rank": "Moderator II",
@@ -196,7 +175,7 @@
             "profile": "https://www.goldphoenix.de/wcf/index.php?user/1907-mr-iks/"
         },
         {
-            "name": "Blaubeere3",
+            "name": "Blaubeere",
             "rank": "Moderator III",
             "highlight": false,
             "picture": "https://www.goldphoenix.de/wcf/images/avatars/25/5982-2549f4a26d307f730980afc53862678fd8dbedcd.gif",
